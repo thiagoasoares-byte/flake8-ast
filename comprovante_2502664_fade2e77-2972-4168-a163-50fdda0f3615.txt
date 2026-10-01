@@ -1,0 +1,19 @@
+════════════════════════════════════════════════════════
+        COMPROVANTE DE ENTREGA - IMPACTA
+════════════════════════════════════════════════════════
+
+  ID de Comprovação: fade2e77-2972-4168-a163-50fdda0f3615
+  Data/Hora:         30/09/2026, 22:20:02
+  Aluno:             Thiago Alves Soares
+  RA:                2502664
+  Atividade:         AST09
+  Status:            No Prazo
+
+────────────────────────────────────────────────────────
+  Referência: https://github.com/thiagoasoares-byte/flake8-ast
+────────────────────────────────────────────────────────
+
+  Este documento é a prova oficial de sua entrega eletrônica.
+  Autenticação: fade2e77-2972-4168-a163-50fdda0f3615-2502664
+
+════════════════════════════════════════════════════════
